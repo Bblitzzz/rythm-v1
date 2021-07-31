@@ -33,8 +33,8 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/IrhamFadzillah/rythm-v2
-$ cd rythm-v2
+$ git clone https://github.com/IrhamFadzillah/rythm-v1
+$ cd rythm-v1
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
